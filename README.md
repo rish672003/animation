@@ -12,7 +12,7 @@ Shell: zsh 5.9
 CPU: Apple M2 Pro
 GPU: Apple M2 Pro
 -------------------------
-Name: Sujal Goel
+Name: Rishabh
 Uptime: 19 Years
 Pronouns: He/Him
 Location: India
@@ -24,11 +24,11 @@ About: An ardent full stack developer with a horrible music taste (vouched by ma
 ```
 
 
-![Views](https://hits.sh/github.com/sujalgoel/sujalgoel.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
+![Views](https://github.com/rish672003)
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujalgoel/sujalgoel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujalgoel/sujalgoel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujalgoel/sujalgoel/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rish672003/rish672003/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rish672003/rish672003/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rish672003/rish672003/output/github-contribution-grid-snake.svg">
 </picture>
